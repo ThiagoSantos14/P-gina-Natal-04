@@ -1,0 +1,38 @@
+.gif {
+    text-align: center;
+}
+
+.titulo-natal {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.conteudo-principal {
+    color: white;
+}
+
+.titulo-filme {
+    color: white;
+    font-size: 20px;
+}
+
+.filmes {
+    text-align: center;
+}
+
+.pedidos {
+    text-align: center;
+}
+
+.titulo-pedido {
+    color: white;
+    font-size: 20px;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
